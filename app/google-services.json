@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619399348277",
+    "firebase_url": "https://thesisapplication-9a073-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thesisapplication-9a073",
+    "storage_bucket": "thesisapplication-9a073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619399348277:android:d823aff076a58b21edf17c",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619399348277-lg87tlk1vcqammsf0i0j8igkj7v86q2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7tcBxTZPehdbU-EkCSfwu27nGgL-FzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619399348277-lg87tlk1vcqammsf0i0j8igkj7v86q2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

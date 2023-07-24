@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">skripsi</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to login.</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password1">Forgot password?</string>
+    <string name="purchase">Forgot password?</string>
+</resources>
